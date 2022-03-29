@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Hello CS565-002, my name is Adam.");
 
 // const assert = require('assert');
 //
